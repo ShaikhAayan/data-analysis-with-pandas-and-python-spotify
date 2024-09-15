@@ -14,7 +14,7 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 - Spotify Data Analysis makes use of secondary data from Spotify. Use data to identify patterns and relationships between different characteristics. The activity will support in developing ability to review and interpret a dataset.
 
-**Prerequisite:** <code>[Data Analyst Roadmap](https://www.geeksforgeeks.org/data-analyst-roadmap/)</code> :hourglass: , <code>[Python Lessons](https://pylessons.com/)</code> 📑 & <code>[Python Libraries for Data Science] ([https://www.geeksforgeeks.org/data-analyst-roadmap/])</code> 🗂️
+**Prerequisite:** <code>[Data Analyst Roadmap](https://www.geeksforgeeks.org/data-analyst-roadmap/)</code> :hourglass: , <code>[Python Lessons](https://pylessons.com/)</code> 📑 & <code>[Python Libraries for Data Science] (https://www.geeksforgeeks.org/data-analyst-roadmap/)</code> 🗂️
 
 **data set**<code> <code>[file](https://www.kaggle.com/datasets/tomigelo/spotify-audio-features)</code> 
 
